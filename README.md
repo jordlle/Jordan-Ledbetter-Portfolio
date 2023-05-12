@@ -34,7 +34,10 @@ Finally, we will use predictive models to estimate future video game sales based
 
 Overall, the objective of this analysis is to provide insights and actionable recommendations to game developers and publishers based on an analysis of video game sales data. By understanding the most popular video games, platforms, and genres, regional sales differences, and the impact of different variables on sales, we aim to help game developers and publishers optimize their game development and marketing efforts to meet consumer preferences and maximize sales.
 
-# [Project 3: Linear Regression App](https://github.com/jordlle/RegressionApp)
+# [Project 3: Webscraping](https://github.com/jordlle/Webscraping/blob/main/Webscraping.ipynb)
+Web scraping is the process of automatically extracting data from websites, using software tools or programming scripts. It is important in data science and business analytics as it enables organizations to collect and analyze large amounts of data from different sources, providing valuable insights for making informed decisions.
+
+# [Project 4: Linear Regression App](https://github.com/jordlle/RegressionApp)
 This linear regression app was designed to take in input from the user to generate a random scatter plot and its regression line. This app shows how two variables relate to one another and what a regression line would look like according to the variable’s association. In addition, I added another input value that changes the scatter plot based on the number of observations in the randomly generated data.
 
 # [Java Projects](https://github.com/jordlle/Java-Projects)
