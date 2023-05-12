@@ -49,3 +49,6 @@ This linear regression app was designed to take in input from the user to genera
 
 # [Java Projects](https://github.com/jordlle/Java-Projects)
 Various Java projects that focus on different skill sets, including queues, aggregation, and recursion.
+
+# [MATLAB Assignments](https://github.com/jordlle/MATLAB-Assignments)
+Various MATLAB assignments that focus on different skill sets.
