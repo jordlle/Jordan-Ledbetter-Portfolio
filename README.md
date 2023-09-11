@@ -1,7 +1,11 @@
 # Jordan Ledbetter's Data Science Portfolio
 Hello and welcome to my data science portfolio! As a current undergraduate student studying data science, I have a passion for working with data to uncover insights and solve real-world problems. With my coursework in statistics, programming, and machine learning, I have gained the foundational skills necessary to tackle various data science projects. Through this portfolio, I am excited to share some of my past projects and demonstrate my analytical abilities.
 
-# [Project 1: Motor Vehicle Crashes in NYC](https://github.com/jordlle/MotorVehicleCrashes)
+# [Project 1: Water Withdrawals in the United States](https://github.com/jordlle/WaterWithdrawals)
+## Brief Overview
+Here we analyze multiple datasets to predict county-level public and domestic self-supply water withdrawals from the basic characteristics/demographics of each US county.
+
+# [Project 2: Motor Vehicle Crashes in NYC](https://github.com/jordlle/MotorVehicleCrashes)
 ## Brief Overview
 This dataset contains information about all the motor vehicle collisions that occurred in New York City from 2013-2022 reported by NYPD. It is required of the police department to report these collisions only if there is an injury, fatality, or a minimum of $1,000 in damage. The following data contains information including: Crash date and time, location (borough, zip code, latitude/longitude, street, cross streets), persons injured or killed (recorded for persons involved, pedestrians, cyclists, and motorists), contributing factors for each vehicle involved, vehicle type.
 
@@ -15,7 +19,7 @@ It is important to identify trends and patterns in the occurrence of motor vehic
 Additionally, the injury and fatality data can give us a clear understanding of the severity of collisions and their impact on public health and safety. By defining these problems, policymakers, transportation agencies, and community leaders can develop targeted strategies to improve road safety, reduce the number of collisions, and save lives.
 
 
-# [Project 2: Predicting the Future of Video Game Sales](https://github.com/jordlle/Video-Game-Sales/tree/main)
+# [Project 3: Predicting the Future of Video Game Sales](https://github.com/jordlle/Video-Game-Sales/tree/main)
 ## Brief Overview
 The vgSales.csv dataset is a collection of video game sales data spanning from 1980 to 2016. It contains information on the video game name, platform, year of release, genre, publisher, North American sales, European sales, Japanese sales, other sales, and global sales. The dataset was originally sourced from VGChartz and has been widely used in data analysis and visualization projects.
 
@@ -34,17 +38,17 @@ Finally, we will use predictive models to estimate future video game sales based
 
 Overall, the objective of this analysis is to provide insights and actionable recommendations to game developers and publishers based on an analysis of video game sales data. By understanding the most popular video games, platforms, and genres, regional sales differences, and the impact of different variables on sales, we aim to help game developers and publishers optimize their game development and marketing efforts to meet consumer preferences and maximize sales.
 
-# [Project 3: Movies](https://github.com/jordlle/Movies/tree/main)
+# [Project 4: Movies](https://github.com/jordlle/Movies/tree/main)
 ## Brief Overview
 The Movies dataset contains information on over 10,000 movies, including details such as the title, year of release, genre, director, actors, and ratings. The dataset is often used in data science and machine learning projects to explore various aspects of the movie industry, such as trends in movie ratings and the factors that contribute to a movie's success.
 
 ## Objective
 Our goal is to gain insights into the movie industry by analyzing various attributes of movies such as ratings, genres, and directors. Through data manipulation, visualization, and modeling, the goal is to uncover patterns and trends that can inform decision-making in areas such as movie production, marketing, and distribution.
 
-# [Project 4: Webscraping](https://github.com/jordlle/Webscraping/blob/main/Webscraping.ipynb)
+# [Project 5: Webscraping](https://github.com/jordlle/Webscraping/blob/main/Webscraping.ipynb)
 Web scraping is the process of automatically extracting data from websites, using software tools or programming scripts. It is important in data science and business analytics as it enables organizations to collect and analyze large amounts of data from different sources, providing valuable insights for making informed decisions.
 
-# [Project 5: Linear Regression App](https://github.com/jordlle/RegressionApp)
+# [Project 6: Linear Regression App](https://github.com/jordlle/RegressionApp)
 This linear regression app was designed to take in input from the user to generate a random scatter plot and its regression line. This app shows how two variables relate to one another and what a regression line would look like according to the variable’s association. In addition, I added another input value that changes the scatter plot based on the number of observations in the randomly generated data.
 
 # [Java Projects](https://github.com/jordlle/Java-Projects)
